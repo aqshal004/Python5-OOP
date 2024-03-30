@@ -1,0 +1,7 @@
+customer_id,purchase_date,product_category,amount_spent,spending_segment
+C001,2023-01-03,Electronics,250.0,High Spending
+C002,2023-02-03,Books,45.5,Low Spending
+C003,2023-03-03,Home & Garden,150.75,Medium Spending
+C001,2023-04-03,Books,20.0,Low Spending
+C002,2023-05-03,Electronics,525.0,High Spending
+C005,2023-07-03,Beauty,75.0,Low Spending
